@@ -1,0 +1,177 @@
+body{
+    padding: 0%;
+    margin: 0;
+}
+
+.top-container{
+    background-color:#e4f9f5;
+
+}
+.mountain{
+    display: flex;
+    justify-content: center;
+}
+
+.mountain>img{
+    width: 60vw;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    text-align: center;
+        font-family: "Sacramento", serif;
+        font-weight: 900;
+        font-style: normal;
+      
+}
+span{
+    text-decoration: underline;
+}
+
+h2{
+    margin-top: 0;
+    color: #66bfbf;
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.top-cloud{
+    position: relative;
+    left: 60vw;
+    padding-top:5vh ;
+}
+
+.bottom-cloud{
+    position: relative;
+    left:20vw
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;  
+    padding-top: 20px;
+}
+
+.goat{
+    height: 135;
+    width: 135;
+    border-radius: 50%;  
+}
+
+.typing{
+  margin-bottom: 10vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+    
+}
+
+.chilli-img{
+    margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+.intro{
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.parent{
+   float: left;
+   padding-right: 5vw;
+   padding-bottom: 3vh;
+
+
+}
+
+.er{
+   float: left;
+   padding-right: 5vw;
+      padding-bottom: 3vh;
+
+}
+ .ew{
+    margin-bottom: 10vh;
+ }
+
+
+ H3 {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+p {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contact-me{
+    text-align: center;
+}
+
+.bottom-container{
+    margin-top: 5vh;
+    background-color: #66bfbf;
+    height: 10vh;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h2{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.footer-link{ 
+    border: #11999e solid;
+    border-radius: 50px;
+    color: #11999e;
+    text-decoration: none;
+    padding:  1vw;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+a:hover {
+    color: white; 
+}
+
+.btn{
+    background: linear-gradient(to bottom, #66bfbf 0%, #11999e 100%);
+    padding: 1vh;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.btn:hover{
+    background: #66bfbf;
+}
+
+.intro{
+    margin-bottom: 10vh;
+}
+
+.ed{
+    margin-bottom: 0%;
+}
+
+.contact-message{
+    margin-bottom: 5vh;
+}
+
